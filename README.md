@@ -2,21 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcce03&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Diego+dos+Reis;Tenho+27+anos;Sou+de+Canoas+RS;E+Estudo+análise+e+desenvolvimento+de+sistemas+na+PUCRS;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=2Reis&show_icons=true&count_private=true&hide_border=true&title_color=fcce03&icon_color=fcce03&text_color=fcce03&bg_color=0d1117" alt="Diego dos Reis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Reis&layout=compact&hide_border=true&title_color=fcce03&text_color=fcce03&bg_color=0d1117" />
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2Reis&bg_color=000000&color=fcce03&line=07e9a5&point=fcce03&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2Reis&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/2reisz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
